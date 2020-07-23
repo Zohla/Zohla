@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Zohla/Zohla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Maren(and not Zohla which is my gamertag since forever :floppy_disk:)
+#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** at night(after kids bedtime and every other free time I can squeeze in!):sparkles: 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on my personal website/portfolio
+- 🌱 I’m currently learning SCSS
+- 👯 I’m looking to collaborate on everything JS/HTML/CSS-realated that can help me learn more.
+- 🤔 I’m looking for a JS-mentor
+- 💬 Ask me about being a preschool-teacher/code newbie transitioning into tech
+- 📫 How to reach me: https://twitter.com/marenlilleberre
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I have(had) a millon hobbies, from weaving and soldering to riding and snowkiting.
+
