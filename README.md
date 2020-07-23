@@ -2,7 +2,7 @@
 
 ### My name is Maren(and not Zohla which is my gamertag since forever :floppy_disk:)
 #### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** at night(after kids bedtime and every other free time I can squeeze in!):sparkles: 
-![Picture of a white female with the text Lifelong learner](https://github.com/Zohla/Zohla/blob/master/maren_learn.jpg)
+![Picture of a white female with the text Lifelong learner and a thoughtbubble with a bulb in it](https://github.com/Zohla/Zohla/blob/master/maren_bulb.jpg)
 
 
 
