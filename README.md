@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there, people👋
 
 ### My name is Maren(and not Zohla which is my gamertag since forever :floppy_disk:)
-#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** at night(after kids bedtime and every other free time I can squeeze in!):sparkles: 
-![Picture of a white female with the text Lifelong learner and a thoughtbubble with a bulb in it](https://github.com/Zohla/Zohla/blob/master/maren_bulb.jpg)
+#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** at night(you know, after the kids bedtime and also every other free time I can squeeze in!):sparkles: 
+
+<img src="https://github.com/Zohla/Zohla/blob/master/maren_bulb.jpg" width ="500">
 
 
 
@@ -15,3 +16,4 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have(had) a millon hobbies, from weaving and soldering to riding and snowkiting.
 
+<img src="https://github.com/Zohla/Zohla/blob/master/octocat.png" width = "300">
