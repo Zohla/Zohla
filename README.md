@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on my personal website/portfolio
+- 🔭 I’m currently working on a new personal website/portfolio
 - 🌱 I’m currently learning SCSS
 - 👯 I’m looking to collaborate on everything JS/HTML/CSS-realated that can help me learn more.
 - 🤔 I’m looking for a JS-mentor
