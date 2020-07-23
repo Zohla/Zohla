@@ -14,6 +14,8 @@
 - 💬 Ask me about being a preschool-teacher/code newbie transitioning into tech
 - 📫 How to reach me: https://twitter.com/marenlilleberre
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have(had) a millon hobbies, from weaving and soldering to riding and snowkiting.
+- ⚡ Fun fact: I have(had) a millon hobbies, from weaving, gaming and soldering to riding and snowkiting.
+
+##### My Octocat: 
 
 <img src="https://github.com/Zohla/Zohla/blob/master/octocat.png" width = "300">
