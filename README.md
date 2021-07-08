@@ -9,7 +9,7 @@
 
 
 - 🔭 **I’m currently working on:** a new personal website/portfolio. And since august 2020 I'm also a part time web developer student!
-- 🌱 **I’m currently learning:**   SCSS and Design 1
+- 🌱 **I’m currently learning:**   JS, JS, JS
 - 👯 **I’m looking to collaborate on:** everything JS/HTML/CSS-realated that can help me learn more.
 - 🤔 **I’m looking for:**          a JS-mentor
 - 💬 **Ask me about:**             being a mother/code newbie transitioning into tech and finding the time to take night classes and learn to code.
