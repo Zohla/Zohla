@@ -12,7 +12,7 @@
 - 🌱 **I’m currently learning:**   JS, JS, JS
 - 👯 **I’m looking to collaborate on:** everything JS/HTML/CSS-realated that can help me learn more.
 - 🤔 **I’m looking for:**          a JS-mentor
-- 💬 **Ask me about:**             being a mother/code newbie transitioning into tech and finding the time to take night classes and learn to code.
+- 💬 **Ask me about:**             being a code newbie transitioning into tech and finding the time to take night classes and learn to code.
 
 - 😄 **Pronouns:**                 She/her
 - ⚡ **Fun fact:**                 I have(had) a millon hobbies, from weaving, gaming and soldering to riding and snowkiting.
