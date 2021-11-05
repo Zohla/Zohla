@@ -8,10 +8,10 @@
 
 
 
-- 🔭 **I’m currently working on:** a new personal website/portfolio. And since august 2020 I'm also a part time web development student!
-- 🌱 **I’m currently learning:**   to work with API's
+- 🔭 **I’m currently working on:** a new personal website/portfolio. I'm also a part time web development student!
+- 🌱 **I’m currently learning:**   React
 - 👯 **I’m looking to collaborate on:** everything JS/HTML/CSS-realated that can help me learn more and be a value to others.
-- 🤔 **I’m looking for:**          a JS-mentor
+- 🤔 **I’m looking for:**          a job
 - 💬 **Ask me about:**             being a code newbie transitioning into tech and finding the time to take night classes and learn to code.
 
 - 😄 **Pronouns:**                 She/her
