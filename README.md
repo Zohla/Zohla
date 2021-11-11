@@ -20,9 +20,3 @@
   <img align="center" alt="Maren Lilleberre | Twitter" width="30px" src="https://github.com/Zohla/Zohla/blob/master/images/twitter-3.svg" />
   <a href="https://www.linkedin.com/in/maren-lilleberre-117406188">
   <img align="center" alt="Maren Lilleberre | LinkedIn" width="30px" src="https://github.com/Zohla/Zohla/blob/master/images/linkedin-icon.svg" />      
-
-
-
-
-
-<img src="https://github.com/Zohla/Zohla/blob/master/octocat.png" width = "300">
