@@ -8,11 +8,11 @@
 
 
 
-- 🔭 **I’m currently working on:** a new personal website/portfolio. I'm also a part time web development student!
-- 🌱 **I’m currently learning:**   React
-- 👯 **I’m looking to collaborate on:** everything JS/HTML/CSS-realated that can help me learn more and be a value to others.
-- 🤔 **I’m looking for:**          a job
-- 💬 **Ask me about:**             being a code newbie transitioning into tech and finding the time to take night classes and learn to code.
+- 🔭 **I’m currently working on:** a Java course
+- 🌱 **I’m currently learning:**   Java!
+- 👯 **I’m looking to collaborate on:** everything that can help me learn more and be a value to others.
+- 🤔 **I’m looking for:**          ~~a job~~ a new laptop.
+- 💬 **Ask me about:**              transitioning into tech and finding the time to take night classes and learn to code.
 
 - 😄 **Pronouns:**                 She/her
 - ⚡ **Fun fact:**                 I have(had) a millon hobbies, from weaving, gaming and soldering to riding and snowkiting.
