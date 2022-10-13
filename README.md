@@ -9,8 +9,8 @@
 
 
 - 🔭 **I’m currently working on:** a Java course
-- 🌱 **I’m currently learning:**   Java!
-- 👯 **I’m looking to collaborate on:** everything that can help me learn more and be a value to others.
+- 🌱 **I’m currently learning:**   Java and Spring Boot!
+- 👯 **I’m looking to collaborate on:** everything that can help me be a value to others and learn more.
 - 🤔 **I’m looking for:**          ~~a job~~ a new laptop.
 - 💬 **Ask me about:**              transitioning into tech and finding the time to take night classes and learn to code.
 
