@@ -1,7 +1,7 @@
 ## Hi there, people👋
 
 ### My name is Maren(and not Zohla which is my gamertag since forever :floppy_disk:)
-#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** at night (and every other free time I can squeeze in)!:sparkles:
+#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** by night (and every other free time I can squeeze in)!:sparkles:
 
 
 <img src="https://github.com/Zohla/Zohla/blob/master/maren_bulb.jpg" width ="500">
@@ -19,4 +19,7 @@
 - 📫 **How to reach me:**     <a href="https://twitter.com/marenlilleberre">
   <img align="center" alt="Maren Lilleberre | Twitter" width="30px" src="https://github.com/Zohla/Zohla/blob/master/images/twitter-3.svg" />
   <a href="https://www.linkedin.com/in/maren-lilleberre-117406188">
-  <img align="center" alt="Maren Lilleberre | LinkedIn" width="30px" src="https://github.com/Zohla/Zohla/blob/master/images/linkedin-icon.svg" />      
+  <img align="center" alt="Maren Lilleberre | LinkedIn" width="30px" src="https://github.com/Zohla/Zohla/blob/master/images/linkedin-icon.svg" />   
+    
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohla&layout=compact)](https://github.com/zohla/github-readme-stats)
