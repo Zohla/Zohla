@@ -1,7 +1,7 @@
 ## Hi there, people👋
 
 ### My name is Maren(and not Zohla which is my gamertag since forever :floppy_disk:)
-#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** by night (and every other free time I can squeeze in)!:sparkles:
+#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** by night (and any other free time I can squeeze in)!:sparkles:
 
 
 <img src="https://github.com/Zohla/Zohla/blob/master/maren_bulb.jpg" width ="500">
