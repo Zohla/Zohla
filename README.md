@@ -1,15 +1,15 @@
-## Hi there, people👋
+## Hi there👋
 
 ### My name is Maren(and not Zohla which is my gamertag since forever :floppy_disk:)
-#### :sparkles:  I'm a mother of 3, a preschool teacher by day, and a **codenewbie** by night (and any other free time I can squeeze in)!:sparkles:
+#### :sparkles:  I'm a mother of 3, a software developer by day, and a serial hobbyist by night!:sparkles:
 
 
 <img src="https://github.com/Zohla/Zohla/blob/master/maren_bulb.jpg" width ="500">
 
 
 
-- 🔭 **I’m currently working on:** a Java course
-- 🌱 **I’m currently learning:**   Java and Spring Boot!
+- 🔭 **I’m currently working on:** a Kotlin course
+- 🌱 **I’m currently learning:**   Kotlin and using a Mac
 - 👯 **I’m looking to collaborate on:** everything that can help me be a value to others and learn more.
 - 🤔 **I’m looking for:**          ~~a job~~ a new laptop.
 - 💬 **Ask me about:**              transitioning into tech and finding the time to take night classes and learn to code.
